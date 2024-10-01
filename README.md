@@ -7,7 +7,7 @@
 - Tools: ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://[www.linkedin.com/in/yourusername](https://www.linkedin.com/in/narasimha-gonela-0667b4243/)/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/narasimha-gonela-0667b4243/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)](https://github.com/YourUsername)
 
